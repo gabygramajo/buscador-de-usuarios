@@ -13,13 +13,13 @@ export const users = [
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
+    name: 'Clara Bauch',
     friendsInCommon: 3,
     img: 'img/perfil3.jpg'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
+    name: 'Pedro Lebsack',
     friendsInCommon: 4,
     img: 'img/perfil4.jpg'
   },
@@ -32,30 +32,30 @@ export const users = [
   {
     id: 6,
     name: 'Mrs. Dennis Schulist',
-    friendsInCommon: 3,
+    friendsInCommon: 2,
     img: 'img/perfil6.jpg'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
+    name: 'Kamala Weissnat',
     friendsInCommon: 1,
     img: 'img/perfil7.jpg'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Lysa Runolfsdottir',
     friendsInCommon: 10,
     img: 'img/perfil8.jpg'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
+    name: 'Eric Reichert',
     friendsInCommon: 15,
     img: 'img/perfil9.jpg'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'David DuBuque',
     friendsInCommon: 7,
     img: 'img/perfil10.jpg'
   },
@@ -67,7 +67,7 @@ export const users = [
   },
   {
     id: 12,
-    name: 'Claudia DuBuque',
+    name: 'Claudio DuBuque',
     friendsInCommon: 14,
     img: 'img/perfil12.jpg'
   }
