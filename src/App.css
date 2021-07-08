@@ -3,12 +3,13 @@
   margin-top: 20px;
   padding: 20px;
   background-color: #282c34;
-  width: 820px;
+  min-width: 820px;
+  width: 70%;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
-@media (max-width: 830px){
+@media (max-width: 850px){
   .App{
-    width: 95%;
+    min-width: 95%;
   }
 }

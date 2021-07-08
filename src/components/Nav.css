@@ -5,13 +5,14 @@
     font-size: 1rem;
     display: flex;
     flex-flow: row nowrap;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     position: relative;
   }
   .App-nav h2 {
-    position: absolute;
-    left: 5px;
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 2px;
   }
   .search-section{
     background-color: #35373d;
@@ -21,14 +22,11 @@
     border-radius: 50px;
     width: 280px;
     height: 50px;
-    position: relative;
+    margin: 0 auto;
   }
   .search-section img{
     height: 30px;
     margin-right: 10px;
-    position: absolute;
-    top: 10px;
-    left: 10px;
   }
   .search-section input[type="search"] {
     height: 40px;
@@ -37,9 +35,6 @@
     border: none;
     color: #fff;
     font-size: 1.3rem;
-    position: absolute;
-    left: 50px;
-  
   }
   .search-section input[type="search"]:focus{
     outline: none;
@@ -47,6 +42,21 @@
 
 @media (max-width: 830px){
     .search-section{
-        left: 30%;
+        margin: 0;
     }   
 }
+
+@media (max-width: 555px){
+  .App-nav{
+    flex-direction: column;
+    height: auto; 
+  }
+  .App-nav h2 {
+      align-self: flex-start;
+      margin-bottom: 10px;
+  }   
+  .search-section{
+    width: 90%;
+} 
+}
+
