@@ -11,6 +11,11 @@
       "src": "img/search.svg",
       "type": "image/svg",
       "sizes": "192x192"
+    },
+    {
+      "src": "img/Crunchyroll.png",
+      "type": "image/png",
+      "sizes": "192x192"
     }
   ],
   "start_url": ".",
