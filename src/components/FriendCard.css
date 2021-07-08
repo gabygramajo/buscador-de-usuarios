@@ -10,7 +10,7 @@
 .friendCard{
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #c5c5c5;
+    /* border: 1px solid #c5c5c5; */
     border-radius: 10px;
     /* min-width: 400px; */
     /* width: 40%; */
@@ -18,8 +18,11 @@
     flex-flow: row nowrap;
 }
 .img-section{
-    width: 25%;
+    width: 40%;
+    height: 150px;
     margin: 0 10px;
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 .img-section img{
@@ -27,12 +30,13 @@
 }
 
 .text-section{
-    width: 75%;
+    width: 60%;
     color: #f5f5f5;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    text-align: center;
 }
 
 .text-section p {

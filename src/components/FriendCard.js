@@ -1,14 +1,14 @@
 import './FriendCard.css';
 
-const FriendCard = () => {
+const FriendCard = ({userName, friends, perfil}) => {
     return (
         <div  className='friendCard'>
             <div className='img-section'>
-                <img src='img/Crunchyroll.png' alt='perfil imagen' />
+                <img src={perfil} alt='perfil imagen' />
             </div>
             <div className='text-section'>
-                <h2>Michael Ruth</h2>
-                <p>5 amigos en común</p>
+                <h2>{userName}</h2>
+                <p>{friends} amigos en común</p>
                 <button className='btn-add'>
                         Agregar
                 </button>
