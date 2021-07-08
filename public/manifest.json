@@ -16,7 +16,68 @@
       "src": "img/Crunchyroll.png",
       "type": "image/png",
       "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil1.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil2.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil3.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil4.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil5.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil6.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil7.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil8.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil9.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil10'.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil11.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/perfil12.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
     }
+    
   ],
   "start_url": ".",
   "display": "standalone",
