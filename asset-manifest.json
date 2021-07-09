@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/buscador-de-usuarios/static/css/main.fbde6ce7.chunk.css",
+    "main.js": "/buscador-de-usuarios/static/js/main.bdee3d18.chunk.js",
+    "main.js.map": "/buscador-de-usuarios/static/js/main.bdee3d18.chunk.js.map",
+    "runtime-main.js": "/buscador-de-usuarios/static/js/runtime-main.6fa019df.js",
+    "runtime-main.js.map": "/buscador-de-usuarios/static/js/runtime-main.6fa019df.js.map",
+    "static/js/2.9e079a16.chunk.js": "/buscador-de-usuarios/static/js/2.9e079a16.chunk.js",
+    "static/js/2.9e079a16.chunk.js.map": "/buscador-de-usuarios/static/js/2.9e079a16.chunk.js.map",
+    "static/js/3.6f568c2c.chunk.js": "/buscador-de-usuarios/static/js/3.6f568c2c.chunk.js",
+    "static/js/3.6f568c2c.chunk.js.map": "/buscador-de-usuarios/static/js/3.6f568c2c.chunk.js.map",
+    "index.html": "/buscador-de-usuarios/index.html",
+    "static/css/main.fbde6ce7.chunk.css.map": "/buscador-de-usuarios/static/css/main.fbde6ce7.chunk.css.map",
+    "static/js/2.9e079a16.chunk.js.LICENSE.txt": "/buscador-de-usuarios/static/js/2.9e079a16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fa019df.js",
+    "static/js/2.9e079a16.chunk.js",
+    "static/css/main.fbde6ce7.chunk.css",
+    "static/js/main.bdee3d18.chunk.js"
+  ]
+}
