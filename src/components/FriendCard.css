@@ -3,8 +3,8 @@
     padding: 0 30px;
     display: grid;
     gap: 20px;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    justify-items: center;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 350px));
+    justify-content: center;
 }
 
 .friendCard{

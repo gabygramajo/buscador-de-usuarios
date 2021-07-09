@@ -19,19 +19,3 @@ const FriendCards = ({usersArray}) => {
 }
 
 export default FriendCards;
-/*
-<section className='friendCard-section'>
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-            <FriendCard />
-        </section >
-*/
